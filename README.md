@@ -15,3 +15,4 @@
   * A Bloc is a component which converts a _stream_ of incoming __events__ into a _stream_ of outgoing __states__
 * Videos explaining the Bloc pattern: [part 1 (implementing from scratch)](https://youtu.be/oxeYeMHVLII) and [part 2 (using the bloc library)](https://youtu.be/LeLrsnHeCZY)
 * [Reactive Programming - Streams - BLoC](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
+* [Flutter / AngularDart – Code sharing, better together (DartConf 2018)](https://www.youtube.com/watch?v=PLHln7wHgPE) by Paolo Soares
