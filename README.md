@@ -6,7 +6,7 @@
 
   <img src="http://4.bp.blogspot.com/-aJDSY_Ph4Go/VZ2-iOy8eHI/AAAAAAABvn4/__J0db_cync/s1600/Screen%2BShot%2B2015-07-08%2Bat%2B5.21.15%2BPM.png" alt="" width="250"/>
 
-* (Cascade notation)[https://stackoverflow.com/questions/49447736/list-use-of-double-dot-in-dart]
+* [Cascade notation](https://stackoverflow.com/questions/49447736/list-use-of-double-dot-in-dart])
 
 ## Bloc (Business logic component)
 
