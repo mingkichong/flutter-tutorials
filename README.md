@@ -1,5 +1,11 @@
 # Flutter Tutorials
 
+## Dart Syntax
+
+* [Null-aware operators](http://blog.sethladd.com/2015/07/null-aware-operators-in-dart.html)
+
+  <img src="http://4.bp.blogspot.com/-aJDSY_Ph4Go/VZ2-iOy8eHI/AAAAAAABvn4/__J0db_cync/s1600/Screen%2BShot%2B2015-07-08%2Bat%2B5.21.15%2BPM.png" alt="" width="250"/>
+
 ## Bloc (Business logic component)
 
 * [Dart Bloc package](https://pub.dartlang.org/packages/bloc)
