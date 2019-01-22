@@ -1,5 +1,6 @@
 # Flutter Tutorials
 
+* [Flutter tutorials from the official website](https://flutter.io/docs/reference/tutorials)
 * [Fluttery youtube channel](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg)
 
 ## Dart Syntax
