@@ -1,7 +1,7 @@
 # Flutter Tutorials
 
 * [Flutter tutorials from the official website](https://flutter.io/docs/reference/tutorials)
-* [Fluttery youtube channel](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg)
+* [Fluttery youtube channel](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - Although the videos are very long, the level of details covered in the videos is fantastic
 
 ## Dart Syntax
 
