@@ -16,3 +16,4 @@
 * Videos explaining the Bloc pattern: [part 1 (implementing from scratch)](https://youtu.be/oxeYeMHVLII) and [part 2 (using the bloc library)](https://youtu.be/LeLrsnHeCZY)
 * [Reactive Programming - Streams - BLoC](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
 * [Flutter / AngularDart – Code sharing, better together (DartConf 2018)](https://www.youtube.com/watch?v=PLHln7wHgPE) by Paolo Soares
+* [Build reactive mobile apps with Flutter (Google I/O '18)](https://youtu.be/RS36gBEp8OI) by Matt Sullivan and Filip Hracek
