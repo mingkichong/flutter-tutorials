@@ -33,4 +33,4 @@
 ## Firestore
 
 * [Firestore as a backend to your Flutter app](https://youtu.be/DqJ_KjFzL9I)
-* [https://www.lynda.com/Flutter-tutorials/Learning-Google-Firebase-Flutter/786417-2.html](https://www.lynda.com/Flutter-tutorials/Learning-Google-Firebase-Flutter/786417-2.html) - This course illustrates step-by-step of how to setup and config flutter to use firestore
+* [Learning Google Firebase for Flutter](https://www.lynda.com/Flutter-tutorials/Learning-Google-Firebase-Flutter/786417-2.html) - This course illustrates step-by-step of how to setup and config flutter to use firestore
