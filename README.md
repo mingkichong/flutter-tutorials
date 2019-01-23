@@ -29,3 +29,8 @@
 * [Code beautiful UI with Flutter and Material Design (Google I/O '18)](https://youtu.be/hA0hrpR-o8U)
 * [Flutter widget of the week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
 * [Material Design with Flutter](https://youtu.be/DL0Ix1lnC4w)
+
+## Firestore
+
+* [Firestore as a backend to your Flutter app](https://youtu.be/DqJ_KjFzL9I)
+* [https://www.lynda.com/Flutter-tutorials/Learning-Google-Firebase-Flutter/786417-2.html](https://www.lynda.com/Flutter-tutorials/Learning-Google-Firebase-Flutter/786417-2.html) - This course illustrates step-by-step of how to setup and config flutter to use firestore
