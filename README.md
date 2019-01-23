@@ -1,4 +1,5 @@
 # Flutter Tutorials
+
 * Flutter widgets 101 - [Ep. 1 Stateless Widgets](https://youtu.be/wE7khGHVkYY), [Ep. 2 Stateful Widgets](https://youtu.be/AqCMFXEmf3w), [Ep. 3 Inherited Widgets](https://youtu.be/Zbm3hjPjQMk), [Ep. 4 Keys](https://youtu.be/kn0EOS-ZiIc) 
 * [Flutter tutorial for beginners](https://youtu.be/GLSG_Wh_YWc) - very basic stuff but it only covers the first 2 sessions of his [course on Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/?couponCode=FLT_YT). The full Udemy course covers many Flutter topics, but it could be outdated now.
 * [Flutter tutorials from the official website](https://flutter.io/docs/reference/tutorials)
@@ -22,3 +23,8 @@
 * [Reactive Programming - Streams - BLoC](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
 * [Flutter / AngularDart – Code sharing, better together (DartConf 2018)](https://www.youtube.com/watch?v=PLHln7wHgPE) by Paolo Soares
 * [Build reactive mobile apps with Flutter (Google I/O '18)](https://youtu.be/RS36gBEp8OI) by Matt Sullivan and Filip Hracek
+
+## UI
+
+* [Code beautiful UI with Flutter and Material Design (Google I/O '18)](https://youtu.be/hA0hrpR-o8U)
+* [Flutter widget of the week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
