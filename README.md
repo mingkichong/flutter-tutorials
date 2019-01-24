@@ -26,7 +26,7 @@
 
 ## Redux
 
-* [Building a List in Redux with Dart's Flutter Framework](https://youtu.be/oqPUd1FlmDQ) - The first minute and a half of the video explains Redux in high level
+* [Building a List in Redux with Dart's Flutter Framework](https://youtu.be/oqPUd1FlmDQ) - The first minute and a half of the video explains Redux in high level [[source code]](https://github.com/tensor-programming/flutter_redux_tutorial_list)
 
 ## UI
 
