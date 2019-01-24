@@ -24,6 +24,10 @@
 * [Flutter / AngularDart – Code sharing, better together (DartConf 2018)](https://www.youtube.com/watch?v=PLHln7wHgPE) by Paolo Soares
 * [Build reactive mobile apps with Flutter (Google I/O '18)](https://youtu.be/RS36gBEp8OI) by Matt Sullivan and Filip Hracek
 
+## Redux
+
+* [Building a List in Redux with Dart's Flutter Framework](https://youtu.be/oqPUd1FlmDQ) - The first minute and a half of the video explains Redux in high level
+
 ## UI
 
 * [Code beautiful UI with Flutter and Material Design (Google I/O '18)](https://youtu.be/hA0hrpR-o8U)
