@@ -4,7 +4,7 @@
 * [Flutter tutorial for beginners](https://youtu.be/GLSG_Wh_YWc) - very basic stuff but it only covers the first 2 sessions of his [course on Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/?couponCode=FLT_YT). The full Udemy course covers many Flutter topics, but it could be outdated now.
 * [Flutter tutorials from the official website](https://flutter.io/docs/reference/tutorials)
 * [Fluttery youtube channel](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - Although the videos are very long, the level of details covered in the videos is fantastic
-* [The best of both worlds] (https://youtu.be/5O795a02L94) 
+* [The best of both worlds](https://youtu.be/5O795a02L94) 
 
 ## Dart Syntax
 
@@ -38,6 +38,5 @@
 * [Material Design with Flutter](https://youtu.be/DL0Ix1lnC4w)
 
 ## Firestore
-
 * [Firestore as a backend to your Flutter app](https://youtu.be/DqJ_KjFzL9I)
 * [Learning Google Firebase for Flutter](https://www.lynda.com/Flutter-tutorials/Learning-Google-Firebase-Flutter/786417-2.html) - This course illustrates step-by-step of how to setup and config flutter to use firestore
